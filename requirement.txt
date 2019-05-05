@@ -12,6 +12,11 @@ django-cors-headers=2.5.3
 django-filter==2.1.0
 djangorestframework-jwt==1.11.0
 social-auth-app-django==3.1.0
+drf-extensions==0.4.0
+django-redis==4.10.0
+redis==3.2.1
+pycrypto==2.6.1
+coreapi==2.3.3
 et-xmlfile==1.0.1
 future==0.16.0
 httplib2==0.11.3
