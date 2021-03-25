@@ -28,7 +28,7 @@ olefile==0.45.1
 openpyxl==2.5.4
 Pillow==5.2.0
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.4
 requests==2.19.1
 six==1.11.0
 tablib==0.12.1
